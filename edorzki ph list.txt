@@ -1,11 +1,6 @@
-127.0.0.1  localhost
-::1  localhost
 
-# [General]
-
-
-
-0.0.0.0 rbreezy.net
-0.0.0.0 pornhub.com
-0.0.0.0 googleadservices.com
-0.0.0.0 ssl.google-analytics.com
+10.10.10.1 rbreezy.net
+10.10.10.1 pornhub.com
+10.10.10.1 googleadservices.com
+10.10.10.1 ssl.google-analytics.com
+10.10.10.1 googleads.g.doubleclick.net
