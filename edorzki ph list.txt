@@ -5,5 +5,7 @@
 
 
 
-127.0.0.1 rbreezy.net
-192.168.1.15 pornhub.com
+0.0.0.0 rbreezy.net
+0.0.0.0 pornhub.com
+0.0.0.0 googleadservices.com
+0.0.0.0 ssl.google-analytics.com
