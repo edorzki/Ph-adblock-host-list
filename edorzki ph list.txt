@@ -20,3 +20,4 @@ googleads.g.doubleclick.net
 127.0.0.1 r1---sn-2aqu-hoaes.googlevideo.com
 127.0.0.1 r3---sn-2aqu-hoall.googlevideo.com
 127.0.0.1 img.connatix.com
+127.0.0.1 img-9gag-fun.9cache.com
