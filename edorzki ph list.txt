@@ -15,3 +15,4 @@ googleads.g.doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 bs.serving-sys.com
