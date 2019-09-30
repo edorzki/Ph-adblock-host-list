@@ -9,6 +9,7 @@ pornhub.com
 googleadservices.com
 ssl.google-analytics.com
 googleads.g.doubleclick.net
+bs.serving-sys.com
 
 127.0.0.1 rbreezy.net
 127.0.0.1 pornhub.com
